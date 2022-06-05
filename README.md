@@ -1,10 +1,8 @@
 - ⚡ Hi there, I’m FarhadEjeha ....
 - 🌱 I am a JavaScript developer ...
 
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=farhad80dragon&count_private=true&show_icons=true&theme=cobalt">
-  <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k53argarnfqluonphvq72oi444">
- 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=farhad80dragon&show_icons=true&theme=radical&count_private=true)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad80dragon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
  
   <br>
