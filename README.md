@@ -1,10 +1,10 @@
 <div align="center">
 <h2>Hi, Guys I'm Farhad
-<img src="https://cdn.discordapp.com/emojis/666472737002356736.gif?size=80&quality=lossless" width="21px">
+<img src="https://cdn.discordapp.com/emojis/666472737002356736.gif?size=80&quality=lossless"  width="30px" height="30px" >
   <br>
 <div align="center">
 <h6><samp> Discord'Dev / Node.js
-<img src="https://cdn.discordapp.com/emojis/858405056238714930.gif?size=80&quality=lossless" width="21px">
+<img src="https://cdn.discordapp.com/emojis/858405056238714930.gif?size=80&quality=lossless"  width="20px" height="20px" >
     <br>
       <br>
 </div>
