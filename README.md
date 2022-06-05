@@ -4,6 +4,9 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=farhad80dragon&count_private=true&show_icons=true&theme=cobalt">
   <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k53argarnfqluonphvq72oi444">
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farhad80dragon&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ 
   <br>
   <br>
 </p>
