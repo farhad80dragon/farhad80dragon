@@ -16,7 +16,6 @@
   <br>
   <img src ="https://spotify-recently-played-readme.vercel.app/api?user=31k53argarnfqluonphvq72oi444">
   <br>
-  <br>
 </p>
   
 <p align="center">
