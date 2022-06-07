@@ -18,7 +18,13 @@
   <br>
   <br>
 </p>
-
+  
+<p align="center">
+   <a href="https://discord.com/users/447428688011722752" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/447428688011722752?idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" align="center">
+   </a>
+</p>
+  
 <h3 align="center"> 🛠️ Tools: </h3>
 
 <p align="center">
